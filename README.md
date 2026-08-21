@@ -4,8 +4,8 @@ This repository contains exercises and assignments for GEOG 592.
 
 ## Student information
 
-Name:
+Name: Joshua Kirk
 
-ONYEN:
+ONYEN: kirjo
 
-GitHub username:
+GitHub username: kirjo828
