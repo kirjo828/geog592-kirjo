@@ -1,0 +1,157 @@
+FID,FeatureTyp,Label,Fr_St,To_St,Notes,Shape_Leng,Shape__Length,GlobalID
+1,Sharrows,West Rosemary Street,Pritchard Avenue,Columbia Street,,291.971605,291.971605,68dd959e-e845-46e3-80f6-7c90a329184e
+2,Sharrows,Ransom Street,W. Cameron Ave,S. Columbia St.,,2215.851974,2215.851974,1a95e6f5-24f4-4ef6-9c6f-2cdc99f05534
+3,Sharrows,W. Rosemary Street,Roberson Street,Henderson Street,,971.3552355,971.3552355,e149be90-1324-4c14-b857-79a35838fb97
+4,Sharrows,Church Street,School Ln.,W. Franklin St.,Bike Boxes,2222.984089,2222.984089,af1e2e91-f075-4460-81ed-ccca49cb1bbd
+5,Sharrows,E. Rosemary Street,Columbia Street,Henderson Street,,973.9984897,973.9984897,f1740445-5d8b-4c16-a08b-8d2f5b427879
+6,Sharrows,W. Rosemary Street,N. Roberson St.,Mitchell Ln.,Eastbound sharrow/Westbound bike lane,430.4203178,430.4203178,1ce40dff-8d87-4184-9956-691e9183e5a4
+7,Bike Lane,Weaver Dairy Rd.,Martin Luther King Jr. Boulevard,Sage Road,,12010.24384,12010.24384,6980d55e-d8e0-475d-bd0c-856976ca7660
+8,Bike Lane,Legion Road,Europa Drive,Forsyth Drive,,905.7636984,905.7636984,e661981d-07b9-4b05-a836-df06b4554ace
+9,Bike Lane,Legion Road,TSI Healthcare,Europa Drive,Bike on one side,968.0193907,968.0193907,98700783-796c-4011-98f9-e541b2fe8ad0
+10,Bike Lane,Sage Road,Weaver Dairy Road,Fordham Boulevard,,4203.855251,4203.855251,9e4a031e-f815-42f4-96b4-b95d59cf5144
+11,Bike Lane,South Columbia Street,Pittsboro Street,Market Street,,10209.66865,10209.66865,43f59f32-35ab-46d8-a1a2-ca221e7dc392
+12,Bike Lane,Rosemary Street,Mitchell Lane,Pritchard Avenue,,1559.687012,1559.687012,31c4d46a-a009-4b8d-b830-f205d0498d8e
+13,Bike Lane,Sprunt Street,Old Barn Lane,Meadowmont Lane,,1836.352767,1836.352767,ebc5c92e-dc06-4b9b-b9dd-2fc9d68bd275
+14,Bike Lane,Kingston Drive,Silver Cedar Court,Timberlyne Driveway,,864.4036148,864.4036148,5a37f77a-91e3-4bad-b691-e5912de1cd18
+15,Bike Lane,Meadowmont Lane,Simerville Road,NC 54,,3284.573461,3284.573461,ac1094c7-7e5b-45c7-9f46-34dd350765e1
+16,Bike Lane,Old Sterling Drive,Eastowne Drive,Sage Road,,2454.929312,2454.929312,f3b2e847-4cb1-4abc-b1d9-056ed05df331
+17,Bike Lane,W. Cameron Ave.,S. Merrit Mill Rd.,Pittsboro St.,,2738.292127,2738.292127,e68dfb64-e879-4644-9979-6570a399ec63
+18,Bike Lane,W. Rosemary Street,Merritt Mill Road,North Robeson Street,,473.8070404,473.8070404,fcaaf52e-e918-48a5-b84e-3c0d6a5735ee
+19,Bike Lane,South Columbia Street,Pittsboro Street,Berryhill Hall,Bike on one side,1206.400187,1206.400187,e057472e-c8eb-42da-b297-d4c0f90b5c72
+20,Bike Lane,Westminister Drive,Saluda Court,Martin Luther King Jr. Boulevard,,1488.833258,1488.833258,96a80fee-986f-4dce-8e5d-242e1be8d96f
+21,Bike Lane,Seawell School Road,High School Road,Carolina North/Carrboro Connector,Bike on one side,2408.671917,2396.073698,c0264723-fe2e-487e-a7be-8d3ae481c956
+22,Bike Lane,South Columbia Street,Market Street,Manning Drive,,10040.87257,10040.87257,18d5c9f9-f73b-41ba-b229-df7784ec0a51
+23,Bike Lane,E. Barbee Chapel Road,NC 54,NC 54,,4531.161581,4531.161581,feda7b08-21f8-4146-8bfb-86d7fc0711a9
+24,Bike Lane,Pittsboro/Cameron Ave.,Cameron Avenue,S. Columbia Street,Bike on one side,2340.793253,2340.793253,207abfcd-2919-4465-b9c0-d083da8142f0
+25,Bike Lane,Weaver Dairy Ext.,Martin Luther King Jr. Blvd.,Homestead Rd,,6632.065305,6632.065305,d61a4147-4fdc-4dc4-871e-0c8338755624
+26,Bike Lane,Friday Center,Raleigh Road,Friday Center Driveway,,1118.886472,1118.886472,2dce8cb1-79cb-42f6-ba77-4d33cf39f00a
+27,Bike Lane,Eubanks Road,Kousa Trail,Martin Luther King Jr. Boulevard,,3166.549054,3166.549054,6e618077-a7de-4206-a40a-11ff6b59bda2
+28,Bike Lane,Rogers Road,Tallyho Trail,Homestead Road,,992.5051386,992.5051386,a5cd4dd0-6c0d-4d85-869c-13dc5aa58691
+29,Bike Lane,Homestead Road,Hearthstone Lane,1804 Homestead Driveway,Bike on one side,1879.346636,1879.346636,77222b73-c2a4-4ab8-a7db-ef85f9da1268
+30,Bike Lane,Novus Lane,Legion Road,Fordham Boulevard Service Road,,1002.354931,1002.354931,be5e629f-dc6b-46fd-933b-3c8e5f93b9e9
+31,Bike Lane,Millhouse Road,Eubanks Road,Clyde Road,,2747.490145,2747.490145,f90e9e55-97de-4e05-8a50-75ccf52a1ad3
+32,Bike Lane,Brandon Road,U.S. 15-501,Flemington Road,,533.3466248,533.3466248,cb38bd09-49c3-44bb-8fb6-5b2276d6e1be
+33,Bike Lane,Homestead Road,Rogers Road,Winmore Avenue,,2180.408219,2180.408219,762ab61d-0b86-418c-8b44-7bffa2c73276
+34,Bike Lane,Eubanks Road,Martin Luther King Jr. Boulevard,Myrica Street,,2682.89397,2682.89397,6200ec84-bfbd-40c9-8ceb-0897633c4824
+35,Bike Lane,Martin Luther King Jr. Boulevard,Eubanks Road,Homestead Road,,6595.924421,6595.924421,ac914dfc-2df1-4e93-9c78-0bfc2ff3be3b
+36,Bike Lane,Weaver Dairy Road Extension,Homestead Road,Martin Luther King Jr. Boulevard,,6866.184665,6866.184665,ddc27615-dd0f-4141-a6de-e2a09b9ea528
+37,Bike Lane,Kingston Drive,Timberlyne Driveway,Silver Cedar Court,,892.1905176,892.1905176,27a14a68-d534-40ac-8712-39d27d50b3f3
+38,Bike Lane,Weaver Dairy Road,Sage Road,Martin Luther King Boulevard,,12062.63974,12062.63974,1a2af0da-697c-4f86-a841-4fb8d576a192
+39,Bike Lane,Sage Road,Fordham Boulevard,Weaver Dairy Road,,4211.506534,4211.506534,a507b8c3-6bba-4fc3-8e58-512fe393590b
+40,Bike Lane,Old Sterling Drive,Sage Road,Eastowne Drive,,2431.570158,2431.570158,a3dca3fb-cf8c-4ad1-b910-4f58cf971619
+41,Bike Lane,Ephesus Church Road,Rams Plaza Driveway,Fordham Boulevard,,138.678174,138.678174,ba152d12-1b92-48d1-b1cb-6fbc52f4b350
+42,Bike Lane,Friday Center Drive,Friday Center Driveway,Raleigh Road,,1106.185871,1106.185871,8729b0be-ef08-439a-8195-c32a3047772a
+43,Bike Lane,Rosemary Street,Pritchard Avenue,Merritt Mill Road,,2689.692962,2689.692962,2e406cf9-7a06-42ec-bf44-beb4705c26fa
+44,Bike Lane,Cameron Avenue,Pittsboro Street,Railroad Tracks,,2583.727628,2583.727628,3f644ce9-2477-4e62-a5ae-d6ef01f7f7de
+45,Bike Lane,Perkins Drive,Martin Luther King Jr. Boulevard,ABC Store Driveway,,147.6896633,147.6896633,ec8a6f48-b6a0-46e3-a7d1-d1f53bb4b936
+46,Bike Lane,Millhouse Road,Clyde Road,Eubanks Road,,2554.530753,2554.530753,c1465205-7676-499e-813b-a10bbb003cc7
+47,Bike Lane,Myrica Street,Eubanks Road,Carraway Crossing,,373.9953207,373.9953207,0f8465ef-9b36-4aad-92b9-de6d7b20ee72
+48,Bike Lane,Myrica Street,Carraway Crossing,Eubanks Road,,517.8586973,517.8586973,764bfef3-4573-4e70-923a-593135e858b4
+49,Bike Lane,E. Barbee Chapel Road,NC 54,NC 54,,4407.519516,4407.519516,c7f4969b-c188-4e1b-a83a-4f517dfee4df
+50,Bike Lane,Sprunt Street,Meadowmont Lane,Old Barn Lane,,1759.442788,1759.442788,3b7cfce8-419c-4514-8e2c-12ab9e3de53e
+51,Bike Lane,Meadowmont Lane,Raleigh Road,Simerville Road,,3319.927481,3319.927481,cdc51980-490b-4a99-89f0-5306e9bd274c
+52,Bike Lane,Novus Lane,Fordham Boulevard Service Road,Legion Road,,1007.941977,1007.941977,14185df4-f2ae-468c-9867-5097ae9ed060
+53,Bike Lane,Eastowne Drive,Fordham Boulevard,UNC Healthcare Driveway,,491.2579276,491.2579276,8eac84db-efcc-49bd-b69f-004e41da03eb
+54,Bike Lane,Eastowne Drive,UNC Healthcare Driveway,Fordham Boulevard,,533.2269884,533.2269884,4c28034b-393b-452d-a7b2-fdbf10ac33e5
+55,Bike Lane,Westminster Drive,Martin Luther King Jr. Boulevard,Saluda Court,,1547.337665,1547.337665,72f35664-68d9-4bf5-8696-775a2f13d566
+56,Paved Greenway,Fan Branch Trail,,,,1334.656525,1334.656525,3e0175fa-e9a4-4e5a-9522-98fd5e5868b0
+57,Paved Greenway,Sedgefield/Weaver Dairy Connector,,,,1347.547383,1347.547383,2c36da66-a281-42a6-8dba-46afac79909f
+58,Paved Greenway,Fordham Sidepath,Ephesus Church Road,Novus Lane,,1349.116365,1349.116365,00abaa29-91ba-4a7a-b196-e9f40fd5a890
+59,Paved Greenway,Carolina North Greenway,,,,4684.793116,4684.793116,1373e339-9a7b-42d6-bda2-76d551260fd1
+60,Paved Greenway,Bolin Creek Greenway,,,,8798.117552,8798.117552,e877fc7c-3b83-4880-95d1-48cad9b3f892
+61,Paved Greenway,Timberlyne/Pitch Pine Connector,Edisto Ct.,Pitch Pine Ln.,,345.0668438,345.0668438,a579a257-dcee-46bd-8d74-3a1270273347
+62,Paved Greenway,NC 54 East,Hamilton Road,Barbee Chapel Road,,6024.223928,6024.223928,e1371492-c003-4880-82b7-e1a95bb86663
+63,Paved Greenway,Southern Community Park,,,,1280.828786,1280.828786,61fe49ec-0b9e-4164-8038-1bb6b5440ad7
+64,Paved Greenway,Christopher Road Connector,,,,532.0482197,532.0482197,03390629-2619-4aa1-b457-cc1e2ebc9714
+65,Paved Greenway,Fordham Sidepath,Eastgate Crossing,Eastgate Driveway,,534.2091873,534.2091873,47f047ba-a945-4462-8034-7833fc03a102
+66,Paved Greenway,Bike Ped Tunnel Under NC 54 at Meadowmont,,,,317.2919183,317.2919183,5e6c0ade-2bcb-47c0-8617-ef2faee32c92
+67,Paved Greenway,Meadowmont Trail,Meadowmont Trail Unpaved,NC54 West Greenway,,4888.09224,4888.09224,3a6842a0-5bac-4b3f-925b-9214ebcb66f8
+68,Paved Greenway,NC 54 West,Burning Tree Drive,Town Boundary,,4669.01084,4669.01084,2c0c7484-a798-421d-9675-5e3ce5435c46
+69,Paved Greenway,Bolin Creek/McMasters Connector,,,,672.2081708,672.2081708,e560a421-b3c0-46d1-acbf-6097a5de4f58
+70,Paved Greenway,Booker Creek Greenway,,,,4450.487975,4450.487975,96d04f21-bed8-4c60-a770-355574e18aee
+71,Paved Greenway,Fordham Sidepath,Ridgefield Drive,Cleland Drive,,1872.804841,1872.804841,6a5ebb8a-1904-45de-b02d-5b2ead91ac1c
+72,Paved Greenway,Morgan Greek Greenway,,,,2776.848883,2776.848883,3d4aa14d-45a3-4e10-8266-33344db00bcd
+73,Paved Greenway,Chapel Watch/Maywood Way Connector,,,,804.8027827,804.8027827,bdc0e34f-a2b2-447e-9db8-eb0445d8cc5c
+74,Paved Greenway,Morgan Greek Greenway,,,,1660.861746,1660.861746,91ba1a8a-45c4-4e50-84f3-32d5a54d00c7
+75,Paved Greenway,Library,,,,697.0227312,697.0227312,53d28780-42a9-448d-966e-1701f45aed82
+76,Paved Greenway,Southern Community Park,,,,2301.623381,2301.623381,bb491d6f-16c6-48a4-9f9d-10a0448106af
+77,Paved Greenway,Fan Branch Trail,,,,47.33873627,47.33873627,ce50bdd9-327e-4832-a4b9-9ab977e0e60d
+78,Paved Greenway,Upper Booker Creek Trail,NC 86,Homestead Park,,3651.322977,3651.322977,27688c68-474e-4282-af54-44d5b68e473c
+79,Paved Greenway,Bolin Creek/Tanyard Branch Trail,,,,6078.350921,6078.350921,a46a6e30-6734-4919-93ae-37fe876e4b43
+80,Paved Greenway,Booker Creek Greenway - Eastgate Connector,,,,1289.813698,1289.813698,02f041b2-3d88-4c3b-b8d8-2ace7f590230
+81,Paved Greenway,Fan Branch Trail,,,,8584.803121,8584.803121,329c800b-2e31-49c0-84a5-44c6827ffe71
+82,Paved Greenway,Library,,,,1495.24955,1495.24955,8928a24e-7968-4929-8fd5-c389b1643c31
+83,Paved Greenway,Fordham Sidepath,,,,671.8071968,671.8071968,e6123744-3753-4818-a87d-be7808595adf
+84,Paved Greenway,Fordham Sidepath,Elliott Road,Mariakakis Plaza Driveway,,578.6100201,578.6100201,346413cb-30b0-4752-aea8-f19d4c29742c
+85,Paved Greenway,Homestead Road,,,,457.1173048,457.1173048,7f2eb0f6-b2f0-4d33-90d5-bde9ae8778df
+86,Paved Greenway,Chapel Hill High,,,,596.7845302,596.7845302,85aa4103-914d-4d4a-a951-2a04d950e5c6
+87,Paved Greenway,Smith Middle,,,,1192.87748,1192.87748,212a7092-8f61-4a76-b3c2-88dd52c9aa0e
+88,Paved Greenway,Smith Middle,,,,534.0722058,534.0722058,5eef7278-0177-4f97-87ad-9067815bb2a0
+89,Paved Greenway,Umstead Park Trail,,,,289.1336494,289.1336494,c7989265-e97b-47ee-8894-787977877e4b
+90,Paved Greenway,Carraway-Eubanks Park-and-Ride Lot Connector,Eubanks Road,Myrica Drive,,968.5850653,968.5850653,a3785d5a-4d25-4b8c-9d7b-d04540ba2873
+91,Paved Greenway,Carraway-Eubanks Park-and-Ride Lot Connector,,,,345.7601382,345.7601382,ef6b61b7-8c1e-46bc-8efa-d5a2646021c5
+92,Paved Greenway,High School Road,Chapel Hill High School Driveway,Seawell School Road,,1688.650304,1688.650304,46a4f653-4c96-4e36-80f3-3a8efc2e4023
+93,Paved Greenway,Homestead Road,Seymour Center,Weaver Dairy Road Extension,,1296.982537,1296.982537,8c4b8bab-72eb-4691-8859-5e417dd5674d
+94,Paved Greenway,Neighborhood Connector,Homestead Road,Valley View Drive,,188.7250399,188.7250399,622eab3c-4f2f-4feb-8af0-74a5ea14cf18
+95,Paved Greenway,Fordham Boulevard Sidepath,Service Road,Wegmans/SECU Driveway,,402.4158432,402.4158432,f6bc9eeb-4e50-4e1b-8e38-84c0c8d5080e
+96,Paved Greenway,Chapel Hill North Greenway,Perkins Drive,Old University Station Road,,566.9995387,566.9995387,b2b6f5cb-4eff-4dbd-b70e-e6059d775169
+97,Paved Greenway,Meadowmont Greenway Connector,Meadowmont Lane,Parkridge Avenue,,1081.766348,1081.766348,81a1a1b4-39bf-46a4-95c2-557e557d0092
+98,Paved Greenway,Cedar Falls Park Trail,,,,1284.067018,1284.067018,b4f95769-a2ad-4bc5-b814-ee1092c0dc36
+99,Paved Greenway,Municipal Services Center Trail,,,,702.1816273,702.1816273,b0dd3a60-fb23-44ad-b2af-474dc64dc3eb
+100,Paved Greenway,Neighborhood Connector,Highgrove Drive,Cobble Ridge Drive,,85.62616087,85.62616087,27f820f1-9300-4835-8bc5-d3d1ebe31663
+101,Paved Greenway,Booker Creek Basin Park,,,,1866.093856,1866.093856,50cb52b2-04bc-4e3d-b5eb-cfd091c02a97
+102,Paved Greenway,Neighborhood Connector,Curtis Road,Estes Hills Elementary School,,244.0072341,244.0072341,81fe7f70-d9f6-4ebe-8ef0-7386f3af19fc
+103,Paved Greenway,Neighborhood Connector,Old Larkspur Way,Hunter Hill Road,,186.3858422,186.3858422,68cdaad4-a735-4845-83b4-c2186340270d
+104,Paved Greenway,Neighborhood Connector,Wellington Drive,Huntington Drive,,115.6130607,115.6130607,5ffce80c-44e5-46a3-84f3-9e629f4e0a5d
+105,Paved Greenway,North Forest Hills Park Trail,Forbush Mountain Drive,North Forest Hills Park Driveway,,522.8271996,522.8271996,30022d31-0351-4592-80e0-c15cbada886f
+106,Paved Greenway,Library,,,,487.2220933,487.2220933,b8eb6716-7d7b-4322-87d0-726d563f1dd2
+107,Bike Lane,Brandon Road,Flemington Road,U.S. 15-501,,533.3466248,533.3466248,9dcd6fe1-6873-4451-aa22-cf794c77cbc3
+108,Bike Lane,Legion Road,Chapel Hill Memorial Cemetery,Europa Drive,,909.6303073,909.6303073,72806a8d-8e31-4ed1-beeb-17425990aae8
+109,Sharrows,Laurel Hill Road,Fern Lane,Country Club Road,Very steep from Fern Lane to Country Club Road,4464.05308,4464.05308,5e070003-87ea-46ac-b5d2-90d3b60d5651
+110,Bike Lane,Martin Luther King Jr. Boulevard,Westminster Drive,Eubanks Road,,5430.478423,5430.478423,8b4ec7ab-7669-4850-aa65-7ad603123cef
+111,Bike Lane,Martin Luther King Jr. Boulevard,Westminster Drive,Eubanks Road,,1723.662975,1723.662975,fc5803b1-5bbd-41b2-948a-d4a7d5159646
+112,Sharrows,Aquatic Drive,Homestead Road,Homestead Park,Markings only on northbound side,1478.266454,1478.266454,c9a1b5e5-a44c-4419-bbf3-8a653606e8a7
+113,Unpaved Greenway,TM THE PUMPKIN LOOP TRAIL,,,,6701.667032,6701.667032,d8604887-7402-4803-965a-ad1a9df97f9d
+114,Unpaved Greenway,TM THE PUMPKIN LOOP TRAIL,,,,1497.400598,1497.400598,2c8004f1-2542-4604-b385-48fc022f7be0
+115,Unpaved Greenway,TM THE VINE TRAIL,,,,5389.834813,5389.834813,42214d3c-1a3b-4d8b-8add-3c0d46c032d5
+116,Unpaved Greenway,TM THE PUMPKIN LOOP TRAIL,,,,1305.339287,1305.339287,e4b2e845-4002-4d61-a6d6-141e5c94592b
+117,Unpaved Greenway,TM THE PUMPKIN LOOP TRAIL,,,,3681.718283,3681.718283,21e43031-9546-4972-b952-d827097fd012
+118,Unpaved Greenway,UNC Cross Country,Prestwick Street,Highland Woods Road,,5269.708804,5269.708804,c05c7208-a91e-48ef-a826-0b37440fcaba
+119,Bike Lane,,,,,713.4209399,713.4209399,94fe5c91-5094-40d9-805f-42b1f27ee4dc
+120,Bike Lane,,,,,700.690154,700.690154,d228fc98-9969-4480-8a67-55e17d50a0a4
+121,Sharrows,,,,,5253.056004,5253.056004,b7c86604-0a87-4e33-b90c-9ad1eb4ca282
+122,Bike Lane,,,,,1505.930602,1505.930602,f00db8ac-4098-42ea-9bd1-e4a908ed21f0
+123,Bike Lane,,,,,1493.101823,1493.101823,d3ef6714-02a3-4baf-af3f-099d0def4d4b
+124,Bike Lane,,,,,2153.18311,2153.18311,e884344e-c6b3-481d-b620-f5f337e6a55d
+125,Bike Lane,,,,,2152.70454,2152.70454,23d80211-1601-43fd-a844-a64a531e57d6
+126,Unpaved Greenway,,,,,1327.750897,1327.750897,7b366847-74c9-43f7-922c-ea33a5b1e43b
+127,Unpaved Greenway,,,,,1115.357276,1115.357276,f9f62d3a-2b4b-44da-a621-7b409baa4b57
+128,Unpaved Greenway,,,,,2839.453281,2839.453281,d362ed57-e923-41f4-bf24-3d85d9db9c91
+129,Bike Lane,,,,,2279.986083,2279.986083,96bce12f-deab-4713-aabc-685d6b1a45db
+130,Bike Lane,,,,,3824.015484,3824.015484,d1376e8b-e7bf-4392-ab85-448483ee2f72
+131,Bike Lane,,,,,1065.709488,1065.709488,9c06ed90-9113-4415-906b-b4c5b487c23d
+132,Bike Lane,,,,,1089.460933,1089.460933,73c95450-d0e5-4077-b369-0ff3ef06ff7c
+133,Bike Lane,,,,,602.1933741,602.1933741,b172a889-db70-4f7a-b41e-9fad027bb3e0
+134,Bike Lane,,,,,545.2976755,545.2976755,4d253d43-6e6c-4cb3-a526-3bb8ef295171
+135,Bike Lane,,,,,1690.277216,1690.277216,144fcdde-fca3-466a-bf0e-4de2fc416a4b
+136,Bike Lane,,,,,2852.851167,2852.851167,cc6911e4-27f1-4e7c-96dd-e9ab1761b863
+137,Bike Lane,,,,,2623.875252,2623.875252,237d91fa-9a98-45b1-ad4a-1f4ac9fc0e48
+138,Bike Lane,,,,,3973.973572,3973.973572,d2f9505f-ae5d-4947-8a97-13ddaf017505
+139,Bike Lane,,,,,2830.8316,2830.8316,6bbf8a7d-ace6-4061-8d8c-5f7b6ae4d208
+140,Bike Lane,,,,,3187.994212,3187.994212,967af9a1-6437-4675-86fa-25c82101b36d
+141,Bike Lane,,,,,3155.926955,3155.926955,60fbea22-8f3e-4cc0-83be-3055ee104af7
+142,Bike Lane,,,,,3874.230675,3874.230675,003e76f9-b9e2-458e-97c8-3e632071c41d
+143,Bike Lane,,,,,3864.528729,3864.528729,2ccea6aa-c3c3-4465-901c-c94796a39bf5
+144,Paved Greenway,,,,,2841.37568,2841.37568,1054c5e8-f880-4462-871e-479e518c4e8e
+145,Paved Greenway,,,,,1650.837912,1650.837912,0033c868-757e-4105-883e-73f89eaeaafe
+146,Bike Lane,,,,,388.1305161,388.1305161,4e23ef04-7cf9-44e4-86ca-9015d398a132
+147,Bike Lane,,,,,133.4782211,133.4782211,7bbfe21e-d110-4f5f-81f5-2df624cac264
+148,Bike Lane,,,,,307.9336748,307.9336748,82a9920b-0faf-44db-974b-a3301a4ee01e
+149,Paved Greenway,,,,,464.563839,464.563839,6bf780c1-7045-46cc-950d-2ed943bbd412
+150,Paved Greenway,,,,,537.3252206,537.3252206,3fa103ca-7709-4605-9c1d-2ca17568f97f
+151,Bike Lane,,,,,241.4259672,241.4259672,a3f19d70-93be-4f1f-a6ee-220728a54a70
+152,Bike Lane,,,,,375.8380956,375.8380956,7995e5ef-5235-4996-b1a8-4b4d4fb95d4d
+153,Bike Lane,,,,,416.5689652,416.5689652,e1ef1e33-9df3-4a0b-a7cf-9f9ee735f5b6
+154,Unpaved Greenway,,,,,943.9107479,943.9107479,d0880a21-b5fd-4bfb-8b25-cab5b603efd2
+155,Unpaved Greenway,,,,,1040.910942,1040.910942,17cf411f-f8ef-4d57-9e05-d41e4c3c00fb
+156,Paved Greenway,,,,,578.3617511,578.3617511,79c5e101-4fd4-4180-b450-8c1ea3f373dd
